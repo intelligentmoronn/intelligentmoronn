@@ -52,7 +52,7 @@ I actively explore AI-powered development workflows using coding agents and tool
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Aldrin Varghese](www.linkedin.com/in/aldrinvargheseav)
+- **LinkedIn:** [Aldrin Varghese](https://www.linkedin.com/in/aldrinvargheseav)
 - **Portfolio:** COMMING SOON
 - **Email:** aldrinvargheeezz@gmail.com
 
